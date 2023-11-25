@@ -27,7 +27,7 @@ pages:
     - rm hugo_extended_${HUGO_VERSION}_linux-amd64.deb
     # Install Node.js
     - mkdir -p /etc/apt/keyrings
-    - curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
+    - curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
     - apt-get install -y nodejs
     # Install Node.js dependencies
     - "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
