@@ -8,7 +8,7 @@ variables:
   TZ: America/Los_Angeles
 
 image:
-  name: golang:1.20.6-bookworm
+  name: golang:bookworm
 
 pages:
   script:
@@ -26,7 +26,8 @@ pages:
     - apt-get install -y ./hugo_extended_${HUGO_VERSION}_linux-amd64.deb
     - rm hugo_extended_${HUGO_VERSION}_linux-amd64.deb
     # Install Node.js
-    - curl -fsSL https://deb.nodesource.com/setup_${NODE_VERSION} | bash -
+    - mkdir -p /etc/apt/keyrings
+    - curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | sudo gpg --dearmor -o /etc/apt/keyrings/nodesource.gpg
     - apt-get install -y nodejs
     # Install Node.js dependencies
     - "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
