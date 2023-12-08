@@ -10,6 +10,16 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+[[main]]
+name = "Projects"
+pageRef = "projects"
+weight = 10
+
+[[main]]
+name = "Outputs"
+pageRef = "outputs"
+weight = 20
+
 #[[main]]
 #  name = "Blog"
 #  pageRef = "posts"
@@ -46,12 +56,6 @@
 #  name = "Categories"
 #  pageRef = "categories"
 #  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
