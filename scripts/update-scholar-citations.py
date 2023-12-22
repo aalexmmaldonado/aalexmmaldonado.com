@@ -28,14 +28,14 @@ for pub_file in glob.glob("../content/outputs/pub*.md"):
     pub_info: dict[str, str] = {}
     with open(pub_file, "r", encoding="utf-8") as f:
         pub_lines = f.readlines()
-    for line in pub_lines:
+    for i, line in enumerate(pub_lines):
         if "gscholar_author_id" in line:
             pub_info["author_id"] = line.split(":")[-1].strip().replace('"', "")
         if "gscholar_citation_id" in line:
             pub_info["citation_id"] = (
                 ":".join(line.split(":")[1:]).strip().replace('"', "")
             )
-        if line[:3] == "---":
+        if "---" in line and i > 1:
             break
     citation_info = get_citation_data(**pub_info)
     total_citations = citation_info["citation"]["total_citations"]["cited_by"]["total"]
