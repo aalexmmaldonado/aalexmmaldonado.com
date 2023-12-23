@@ -111,29 +111,29 @@ The following passages are unmodified student responses (19 out of 21) to a Cour
 
 #### Express your judgment of the instructor's overall teaching effectiveness
 
-**Mean:** 4.37 <progress value="4.37" max="5" style="--value: 4.37; --max: 5;"></progress>
+Mean: 4.37 <progress value="4.37" max="5" style="--value: 4.37; --max: 5;"></progress>
 
-**Standard deviation:** 0.76
+Standard deviation: 0.76
 
 #### The standards the instructor set for me were
 
-**Too low:** 0 <progress value="0" max="19" style="--value: 0; --max: 2;"></progress>
+Too low: 0 <progress value="0" max="19" style="--value: 0; --max: 2;"></progress>
 
-**Appropriate:** 17 <progress value="17" max="19" style="--value: 1; --max: 2;"></progress>
+Appropriate: 17 <progress value="17" max="19" style="--value: 1; --max: 2;"></progress>
 
-**Too low:** 2 <progress value="2" max="19" style="--value: 2; --max: 2;"></progress>
+Too high: 2 <progress value="2" max="19" style="--value: 0; --max: 2;"></progress>
 
 #### How many hours per week did you usually spend working on this course outside of classroom time?
 
-**Less than one hour:** 0 <progress value="0" max="19" style="--value: 2; --max: 4;"></progress>
+Less than one hour: 0 <progress value="0" max="19" style="--value: 2; --max: 4;"></progress>
 
-**One to three hours:** 10 <progress value="10" max="19" style="--value: 3; --max: 4;"></progress>
+One to three hours: 10 <progress value="10" max="19" style="--value: 3; --max: 4;"></progress>
 
-**Four to six hours:** 9 <progress value="9" max="19" style="--value: 4; --max: 4;"></progress>
+Four to six hours: 9 <progress value="9" max="19" style="--value: 4; --max: 4;"></progress>
 
-**Seven to nine hours:** 0 <progress value="0" max="19" style="--value: 2; --max: 4;"></progress>
+Seven to nine hours: 0 <progress value="0" max="19" style="--value: 2; --max: 4;"></progress>
 
-**Ten or more hours:** 0 <progress value="0" max="19" style="--value: 1; --max: 4;"></progress>
+Ten or more hours: 0 <progress value="0" max="19" style="--value: 1; --max: 4;"></progress>
 
 #### The instructor created an atmosphere that kept me engaged in course content
 
