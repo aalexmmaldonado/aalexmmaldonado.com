@@ -16,16 +16,22 @@ pageRef = "about"
 weight = 5
 
 [[main]]
+name = "Me"
+parent = "About"
+pageRef = "about/me"
+weight = 5
+
+[[main]]
 name = "Science"
 parent = "About"
 pageRef = "about/science"
-weight = 5
+weight = 6
 
 [[main]]
 name = "Education"
 parent = "About"
 pageRef = "about/education"
-weight = 6
+weight = 7
 
 [[main]]
 name = "Research"
@@ -42,10 +48,10 @@ name = "Outputs"
 pageRef = "outputs"
 weight = 20
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+name = "Blog"
+pageRef = "blog"
+weight = 30
 
 #[[main]]
 #  name = "Parent"
