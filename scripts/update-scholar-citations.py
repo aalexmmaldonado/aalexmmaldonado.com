@@ -38,7 +38,10 @@ for pub_file in glob.glob("../content/outputs/pub*.md"):
         if "---" in line and i > 1:
             break
     citation_info = get_citation_data(**pub_info)
-    total_citations = citation_info["citation"]["total_citations"]["cited_by"]["total"]
+    if "total_citations" in citation_info["citation"].keys():
+        total_citations = citation_info["citation"]["total_citations"]["cited_by"]["total"]
+    else:
+        total_citations = 0
     for i, line in enumerate(pub_lines):
         if "gscholar_citation_num" in line:
             pub_lines[i] = f'gscholar_citation_num: "{total_citations}"\n'
