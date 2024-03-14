@@ -8,6 +8,14 @@ cd my-website \
 git submodule update --init
 ```
 
+To update theme.
+
+```bash
+git submodule update --remote
+```
+
+To serve website.
+
 ```bash
 hugo serve
 ```
