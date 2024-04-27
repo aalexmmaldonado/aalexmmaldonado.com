@@ -48,6 +48,34 @@ The following outcomes guides my design and implementation of this course.
 6.  Evaluate and apply computational methods to solve real-world biological problems.
 7.  Prepare students for further research or applications in computational biology and related fields.
 
+## Grade distribution
+
+**A+** <progress value="4" max="69" style="--value: 4.0; --max: 4.0;"></progress>
+
+**A** <progress value="12" max="69" style="--value: 4.0; --max: 4.0;"></progress>
+
+**A-** <progress value="12" max="69" style="--value: 3.75; --max: 4.0;"></progress>
+
+**B+** <progress value="4" max="69" style="--value: 3.25; --max: 4.0;"></progress>
+
+**B** <progress value="13" max="69" style="--value: 3.0; --max: 4.0;"></progress>
+
+**B-** <progress value="5" max="69" style="--value: 2.75; --max: 4.0;"></progress>
+
+**C+** <progress value="2" max="69" style="--value: 2.25; --max: 4.0;"></progress>
+
+**C** <progress value="6" max="69" style="--value: 2.20; --max: 4.0;"></progress>
+
+**C-** <progress value="1" max="69" style="--value: 1.75; --max: 4.0;"></progress>
+
+**D+** <progress value="4" max="69" style="--value: 1.25; --max: 4.0;"></progress>
+
+**D** <progress value="1" max="69" style="--value: 1.00; --max: 4.0;"></progress>
+
+**D-** <progress value="0" max="69" style="--value: 0.75; --max: 4.0;"></progress>
+
+**F** <progress value="5" max="69" style="--value: 0; --max: 4.0;"></progress>
+
 ## Repository
 
 {{< gitlab projectID="52127644" baseURL="https://gitlab.com/" >}}
