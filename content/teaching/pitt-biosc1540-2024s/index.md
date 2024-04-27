@@ -3,7 +3,7 @@ title: "Computational Biology (Spring 2024)"
 layout: simple
 type: course
 showHero: true
-date: 2023-09-01
+date: 2024-01-09
 ---
 
 
