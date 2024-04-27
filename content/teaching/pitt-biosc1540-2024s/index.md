@@ -50,31 +50,39 @@ The following outcomes guides my design and implementation of this course.
 
 ## Grade distribution
 
-**A+** <progress value="4" max="69" style="--value: 4.0; --max: 4.0;"></progress>
+Below is the final grade distribution of the 69 students in the class.
 
-**A** <progress value="12" max="69" style="--value: 4.0; --max: 4.0;"></progress>
+**A+** (5.8%) <progress value="4" max="69" style="--value: 4.0; --max: 4.0;"></progress>
 
-**A-** <progress value="12" max="69" style="--value: 3.75; --max: 4.0;"></progress>
+**A** (17.4%) <progress value="12" max="69" style="--value: 4.0; --max: 4.0;"></progress>
 
-**B+** <progress value="4" max="69" style="--value: 3.25; --max: 4.0;"></progress>
+**A-** (17.4%) <progress value="12" max="69" style="--value: 3.75; --max: 4.0;"></progress>
 
-**B** <progress value="13" max="69" style="--value: 3.0; --max: 4.0;"></progress>
+**B+** (5.8%) <progress value="4" max="69" style="--value: 3.25; --max: 4.0;"></progress>
 
-**B-** <progress value="5" max="69" style="--value: 2.75; --max: 4.0;"></progress>
+**B** (18.8%) <progress value="13" max="69" style="--value: 3.0; --max: 4.0;"></progress>
 
-**C+** <progress value="2" max="69" style="--value: 2.25; --max: 4.0;"></progress>
+**B-** (7.2%) <progress value="5" max="69" style="--value: 2.75; --max: 4.0;"></progress>
 
-**C** <progress value="6" max="69" style="--value: 2.20; --max: 4.0;"></progress>
+**C+** (2.9%) <progress value="2" max="69" style="--value: 2.25; --max: 4.0;"></progress>
 
-**C-** <progress value="1" max="69" style="--value: 1.75; --max: 4.0;"></progress>
+**C** (8.7%) <progress value="6" max="69" style="--value: 2.20; --max: 4.0;"></progress>
 
-**D+** <progress value="4" max="69" style="--value: 1.25; --max: 4.0;"></progress>
+**C-** (1.4%) <progress value="1" max="69" style="--value: 1.75; --max: 4.0;"></progress>
 
-**D** <progress value="1" max="69" style="--value: 1.00; --max: 4.0;"></progress>
+**D+** (5.8%) <progress value="4" max="69" style="--value: 1.25; --max: 4.0;"></progress>
 
-**D-** <progress value="0" max="69" style="--value: 0.75; --max: 4.0;"></progress>
+**D** (1.4%) <progress value="1" max="69" style="--value: 1.00; --max: 4.0;"></progress>
 
-**F** <progress value="5" max="69" style="--value: 0; --max: 4.0;"></progress>
+**D-** (0.0%) <progress value="0" max="69" style="--value: 0.75; --max: 4.0;"></progress>
+
+**F** (7.2%) <progress value="5" max="69" style="--value: 0; --max: 4.0;"></progress>
+
+### Insight
+
+The vast majority of students (84.2%) demonstrated proficient understanding of the material.
+A strong correlation exists between attendance and receiving a passing grade; students with a C- or lower in the course attended only 20% of the classes (excluding quiz days).
+Students who semi-routinely came to office hours make up a large portion of A's and above.
 
 ## Repository
 

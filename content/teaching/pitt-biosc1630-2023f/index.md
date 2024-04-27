@@ -65,31 +65,31 @@ After successfully completing this course, students should be able to do the fol
 
 ## Grade distribution
 
-**A+** <progress value="7" max="21" style="--value: 4.0; --max: 4.0;"></progress>
+**A+** (33.3%) <progress value="7" max="21" style="--value: 4.0; --max: 4.0;"></progress>
 
-**A** <progress value="7" max="19" style="--value: 4.0; --max: 4.0;"></progress>
+**A** (33.3%) <progress value="7" max="21" style="--value: 4.0; --max: 4.0;"></progress>
 
-**A-** <progress value="3" max="19" style="--value: 3.75; --max: 4.0;"></progress>
+**A-** (14.3%) <progress value="3" max="21" style="--value: 3.75; --max: 4.0;"></progress>
 
-**B+** <progress value="2" max="19" style="--value: 3.25; --max: 4.0;"></progress>
+**B+** (33.3%) <progress value="2" max="21" style="--value: 3.25; --max: 4.0;"></progress>
 
-**B** <progress value="1" max="19" style="--value: 3.0; --max: 4.0;"></progress>
+**B** (4.8%) <progress value="1" max="21" style="--value: 3.0; --max: 4.0;"></progress>
 
-**B-** <progress value="0" max="19" style="--value: 2.75; --max: 4.0;"></progress>
+**B-** (0.0%) <progress value="0" max="21" style="--value: 2.75; --max: 4.0;"></progress>
 
-**C+** <progress value="1" max="19" style="--value: 2.25; --max: 4.0;"></progress>
+**C+** (4.8%) <progress value="1" max="21" style="--value: 2.25; --max: 4.0;"></progress>
 
-**C** <progress value="0" max="19" style="--value: 2.20; --max: 4.0;"></progress>
+**C** (0.0%) <progress value="0" max="21" style="--value: 2.20; --max: 4.0;"></progress>
 
-**C-** <progress value="0" max="19" style="--value: 1.75; --max: 4.0;"></progress>
+**C-** (0.0%) <progress value="0" max="21" style="--value: 1.75; --max: 4.0;"></progress>
 
-**D+** <progress value="0" max="19" style="--value: 1.25; --max: 4.0;"></progress>
+**D+** (0.0%) <progress value="0" max="21" style="--value: 1.25; --max: 4.0;"></progress>
 
-**D** <progress value="0" max="19" style="--value: 1.00; --max: 4.0;"></progress>
+**D** (0.0%) <progress value="0" max="21" style="--value: 1.00; --max: 4.0;"></progress>
 
-**D-** <progress value="0" max="19" style="--value: 0.75; --max: 4.0;"></progress>
+**D-** (0.0%) <progress value="0" max="21" style="--value: 0.75; --max: 4.0;"></progress>
 
-**F** <progress value="0" max="19" style="--value: 0; --max: 4.0;"></progress>
+**F** (0.0%) <progress value="0" max="21" style="--value: 0; --max: 4.0;"></progress>
 
 ## Teaching evaluations
 
