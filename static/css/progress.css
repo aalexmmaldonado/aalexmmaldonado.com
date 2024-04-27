@@ -53,26 +53,6 @@ progress[value]::-moz-progress-bar {
     border-radius: var(--border-radius);
 }
 
-progress[value]::after {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    --size: 32px;
-    width: var(--size);
-    height: var(--size);
-    position: absolute;
-    left: var(--progress-value-percent);
-    top: 50%;
-    transform: translate(-50%, -50%);
-    background-color: var(--progress-value-color);
-    border-radius: 50%;
-    content: attr(value);
-    content: var(--progress-value-string, var(--value));
-    font-size: 12px;
-    font-weight: 700;
-    color: #fff;
-}
-
 @keyframes progress {
     from {
         --progress-value: 0;
