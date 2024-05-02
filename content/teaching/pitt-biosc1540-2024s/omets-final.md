@@ -175,30 +175,6 @@ Agree: 15 <progress value="15" max="36" style="--value: 3; --max: 4;"></progress
 
 Strongly agree: 9 <progress value="9" max="36" style="--value: 4; --max: 4;"></progress>
 
-#### The instructor treated students with respect
-
-Strongly disagree: 0 <progress value="0" max="36" style="--value: 0; --max: 4;"></progress>
-
-Disagree: 0 <progress value="0" max="36" style="--value: 1; --max: 4;"></progress>
-
-Neutral: 3 <progress value="3" max="36" style="--value: 2; --max: 4;"></progress>
-
-Agree: 9 <progress value="9" max="36" style="--value: 3; --max: 4;"></progress>
-
-Strongly agree: 22 <progress value="22" max="36" style="--value: 4; --max: 4;"></progress>
-
-#### The instructor treated students with respect
-
-Strongly disagree: 0 <progress value="0" max="36" style="--value: 0; --max: 4;"></progress>
-
-Disagree: 0 <progress value="0" max="36" style="--value: 1; --max: 4;"></progress>
-
-Neutral: 2 <progress value="2" max="36" style="--value: 2; --max: 4;"></progress>
-
-Agree: 7 <progress value="7" max="36" style="--value: 3; --max: 4;"></progress>
-
-Strongly agree: 25 <progress value="25" max="36" style="--value: 4; --max: 4;"></progress>
-
 #### The project(s) provided a meaningful learning experience
 
 Strongly disagree: 1 <progress value="1" max="36" style="--value: 0; --max: 4;"></progress>
