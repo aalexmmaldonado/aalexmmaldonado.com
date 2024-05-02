@@ -3,7 +3,7 @@ title: "Computational Biology (Spring 2024)"
 layout: simple
 type: course
 showHero: true
-date: 2024-01-09
+date: 2024-01-08
 ---
 
 
@@ -87,3 +87,7 @@ Students who semi-routinely came to office hours make up a large portion of A's 
 ## Repository
 
 {{< gitlab projectID="52127644" baseURL="https://gitlab.com/" >}}
+
+## Teaching evaluations
+
+{{% include "omets-final.md" %}}
