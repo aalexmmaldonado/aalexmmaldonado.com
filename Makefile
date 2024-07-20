@@ -4,4 +4,4 @@ dependencies:
 
 .PHONY: serve
 serve:
-	hugo server -D --watch
+	hugo server --buildDrafts --disableFastRender
