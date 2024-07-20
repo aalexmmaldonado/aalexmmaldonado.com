@@ -11,33 +11,9 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "About"
-pageRef = "about/me"
+name = "About me"
+pageRef = "me"
 weight = 10
-
-[[main]]
-name = "Me"
-parent = "About"
-pageRef = "about/me"
-weight = 11
-
-[[main]]
-name = "Science"
-parent = "About"
-pageRef = "about/science"
-weight = 12
-
-[[main]]
-name = "Education"
-parent = "About"
-pageRef = "about/education"
-weight = 12
-
-[[main]]
-name = "Mentorship"
-parent = "About"
-pageRef = "about/mentorship"
-weight = 13
 
 [[main]]
 name = "Research"

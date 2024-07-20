@@ -12,4 +12,6 @@ I believe it is important to see how they evolve with me with all of their mista
 
 This section reproduces many of the documents I have written for applications in chronological order.
 
--   [Diversity statement](./diversity/)
+### 2023
+
+-   [Pitt Postdoc](./pitt-postdoc/)

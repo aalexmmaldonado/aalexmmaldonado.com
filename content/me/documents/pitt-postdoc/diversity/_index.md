@@ -1,11 +1,9 @@
 ---
 title: "Diversity statement"
 showWords: false
-layout: article
+layout: simple
 date: 2023-02-23
-showDate: true
 showZenMode: true
-showTableOfContents: false
 ---
 
 Growing up, I was one of a few Hispanic high school students in a homogeneous, conservative community.
@@ -31,7 +29,7 @@ I strive to tailor my curriculum to ensure all students see themselves and their
 
 Investing Now is also where I learned the importance of accessible teaching.
 I struggled to engage with one student in particular, Eugene, until I introduced the electromagnetic spectrum in one class.
-He asked me his first question in the course, ``Are gamma rays the same thing that turned Bruce Banner into the Hulk?''
+He asked me his first question in the course, "Are gamma rays the same thing that turned Bruce Banner into the Hulk?"
 I have never been so excited to answer a seemingly off-topic question as I realized I could leverage his interest in Marvel comic books to keep him engaged.
 Accessibility also encompasses sharing knowledge freely with anyone seeking it.
 This principle permeates my teaching and research, where I routinely release lectures, class notes, software, and data on my website at no cost.
