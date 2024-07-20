@@ -1,7 +1,7 @@
 .PHONY: dependencies
 dependencies:
-	git submodule update --init --recursive
+	git submodule update --init --recursive --remote
 
 .PHONY: serve
 serve:
-	hugo server --disableFastRender
+	hugo server -D --watch
