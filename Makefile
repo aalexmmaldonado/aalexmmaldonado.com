@@ -5,3 +5,8 @@ dependencies:
 .PHONY: serve
 serve:
 	hugo server --buildDrafts --disableFastRender
+
+.PHONY: site
+site:
+	- rm -rf public/
+	hugo
