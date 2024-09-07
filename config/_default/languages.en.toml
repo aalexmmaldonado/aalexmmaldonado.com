@@ -13,7 +13,7 @@ dateFormat = "2 January 2006"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
-[author]
+[params.author]
 name = "Alex Maldonado, PhD"
 image = "img/me-square.jpg"
 headline = "Computational Biology Postdoc at [Pitt](https://www.pitt.edu/)"
