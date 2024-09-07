@@ -3,15 +3,15 @@
 ## Local development
 
 ```bash
-git clone https://gitlab.com/aalexmmaldonado/my-website \
-cd my-website \
-git submodule update --init
+git clone git@github.com:aalexmmaldonado/aalexmmaldonado.com.git \
+cd aalexmmaldonado.com \
+git submodule update --init --recursive --remote
 ```
 
 To update theme.
 
 ```bash
-git submodule update --remote
+git submodule update --init --recursive --remote
 ```
 
 To serve website.

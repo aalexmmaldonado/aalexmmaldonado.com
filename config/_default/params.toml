@@ -12,12 +12,15 @@ dateFormat = "Jan 2, 2006"
 
 enableSearch = true
 enableCodeCopy = true
-enableInlineShortcodes = true
+
+replyByEmail = false
 
 # mainSections = ["section1", "section2"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
+disableTextInHeader = false
+# backgroundImageWidth = 1200
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
@@ -53,6 +56,7 @@ smartTOC = true
   showLikes = false
   showDateUpdated = false
   showAuthor = false
+  # showAuthorBottom = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -60,7 +64,7 @@ smartTOC = true
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
-  editURL = "https://gitlab.com/aalexmmaldonado/aalexmmaldonado.com"
+  editURL = "https://github.com/aalexmmaldonado/aalexmmaldonado.com"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -74,6 +78,7 @@ smartTOC = true
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = false
 
 [list]
   showHero = false
@@ -86,6 +91,7 @@ smartTOC = true
   showLikes = false
   showTableOfContents = false
   showCards = false
+  orderByWeight = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
@@ -127,6 +133,16 @@ smartTOC = true
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
+
+[umamiAnalytics]
+  # websiteid = "ABC12345"
+  # domain = "llama.yoursite.com"
+  # dataDomains = "yoursite.com,yoursite2.com"
+  # enableTrackEvent = true
+
+[selineAnalytics]
+  # token = "XXXXXX"
+  # enableTrackEvent = true
 
 [buymeacoffee]
   # identifier = ""
