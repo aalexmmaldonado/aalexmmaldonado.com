@@ -19,10 +19,10 @@ The Department of Biological Sciences is a highly interactive community situated
 We are dedicated to the mutual success of our faculty and students in our research, education, and outreach missions.
 The department and university nurture a strong teaching community with active efforts in teaching innovation and pedagogical research.
 Pittsburgh is a city that is often voted “most livable” in the nation.
-We are dedicated to fostering an inclusive and welcoming environment that values and nurtures diverse perspectives (https://www.provost.pitt.edu/university-pittsburgh-embracing-diversity-and-inclusion).
-Further information about the Department of Biological Sciences is available at: https://www.biology.pitt.edu.
+We are dedicated to fostering an inclusive and welcoming environment that values and nurtures diverse perspectives (<https://www.provost.pitt.edu/university-pittsburgh-embracing-diversity-and-inclusion>).
+Further information about the Department of Biological Sciences is available at: <https://www.biology.pitt.edu>.
 
-To apply, candidates should submit PDF documents of the following to Talent Center (https://join.pitt.edu):
+To apply, candidates should submit PDF documents of the following to Talent Center (<https://join.pitt.edu>):
 
 -   a letter of application,
 -   a current CV,
@@ -30,7 +30,7 @@ To apply, candidates should submit PDF documents of the following to Talent Cent
 -   a teaching portfolio (teaching statement, selected teaching materials, teaching evaluations), and
 -   a brief description of how your research, teaching or service demonstrates a commitment to diversity and inclusion.
 
-At least three letters of reference should be sent by the recommenders to biojobs@pitt.edu.
+At least three letters of reference should be sent by the recommenders to <biojobs@pitt.edu>.
 
 Applications will be reviewed starting 1 February 2023 and will continue until the
 position is filled.

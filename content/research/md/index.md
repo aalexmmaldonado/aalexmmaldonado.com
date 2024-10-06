@@ -11,4 +11,4 @@ tags: ["Research", "Simulations"]
 
 TODO:
 
-{{< gitlab projectID="52050375" baseURL="https://gitlab.com/" >}}
+{{< gitlab projectID="52050375" baseURL="<https://gitlab.com/>" >}}

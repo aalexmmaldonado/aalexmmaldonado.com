@@ -61,7 +61,7 @@ After successfully completing this course, students should be able to do the fol
 
 ## Repository
 
-{{< gitlab projectID="52245168" baseURL="https://gitlab.com/" >}}
+{{< gitlab projectID="52245168" baseURL="<https://gitlab.com/>" >}}
 
 ## Grade distribution
 

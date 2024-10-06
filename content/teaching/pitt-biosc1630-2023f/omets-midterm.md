@@ -153,5 +153,4 @@ researchers use.
 -   Alex is a great professor, he creates a good classroom environment conducive to learning.
 -   This class has been very interesting so far and I really like the way it is being taught!
 
-
 </details>

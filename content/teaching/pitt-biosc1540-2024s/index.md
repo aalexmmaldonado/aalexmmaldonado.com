@@ -86,7 +86,7 @@ Students who semi-routinely came to office hours make up a large portion of A's 
 
 ## Repository
 
-{{< gitlab projectID="52127644" baseURL="https://gitlab.com/" >}}
+{{< gitlab projectID="52127644" baseURL="<https://gitlab.com/>" >}}
 
 ## Teaching evaluations
 
