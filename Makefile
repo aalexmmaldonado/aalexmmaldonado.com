@@ -10,3 +10,7 @@ serve:
 site:
 	- rm -rf public/
 	hugo
+
+.PHONY: formatting
+formatting:
+	- $(CONDA) markdownlint-cli2 "content/**/*.{md,markdown}" --fix --config .markdownlint.yaml
